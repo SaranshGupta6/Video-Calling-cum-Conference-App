@@ -2,6 +2,8 @@
 This android app helps  us to connect with colleagues, Family, Friends and Students.  This app use Jitsi SDK and it’s Open Source, provide high-quality video and audio conferences with encryption by default.
 
 Screenshot : 
+
+
 ![Screenshot 2023-08-04 163915](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/71b3c85a-a351-44ff-90d3-5794b2c91122)
 ![Screenshot 2023-08-04 163427](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/75d1e5b6-cf02-4c60-a2dd-e87593a44c3a)
 ![Screenshot 2023-08-04 163458](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/cd3c8649-f9fe-40a0-b57d-18f9aaaf81e2)
