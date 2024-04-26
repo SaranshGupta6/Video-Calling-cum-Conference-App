@@ -14,5 +14,3 @@ Screenshot :
 ![Screenshot 2023-08-04 163700](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/488ec8b2-506f-403d-b6b1-4a0c6672ed8d)
 ![Screenshot 2023-08-04 163759](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/57ca8a5c-ae29-4612-8f95-30b70f77903c)
 ![Screenshot 2023-08-04 163839](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/0f8afd9a-a1f9-4d90-ac85-bd43673dc150)
-![Screenshot 2024-04-26 104638](https://github.com/SaranshGupta6/Video-Calling-cum-Conference-App/assets/83112564/5a26249b-7789-473b-9b0d-a2efc6c6a595)
-
